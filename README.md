@@ -8,7 +8,7 @@
 
 _I’m currently working on __on Earth Today__ (link coming soon) : personnal project..._
 
-I'm a __Developer__ and __Cloud Engineer__ with a strong interest in __DevOps__ and __CyberDefense__.
+I'm a __Developer__ and __DevOps__ with a strong interest in __Cloud Engineering__ and __CyberDefense__.
 I'm also a hiking, nature and animals lover and I like to discover new cultures.
 I'm graduated from [Efrei Paris](https://www.efrei.fr) with a _Engineering degree in Cloud Computing_ and from [Paris V Universitary Institute of Technology](https://www.iut.parisdescartes.fr).
 
