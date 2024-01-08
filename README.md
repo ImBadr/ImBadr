@@ -6,11 +6,11 @@
 
 ### About me 🙋‍♂️ ###
 
-_I’m currently working on __on Earth Today__ (link coming soon) : personnal project..._
+_I’m currently working on __"On Earth Today"__ (link coming soon): a personal project..._
 
 I'm a __Developer__ and __DevOps__ with a strong interest in __Cloud Engineering__ and __CyberDefense__.\
-I'm also a hiking, nature and animals lover and I like to discover new cultures.\
-Graduated from the [University Institutes of Technology of Paris](https://www.iut.parisdescartes.fr) and the [Efrei Paris](https://www.efrei.fr) engineering school __Major Cloud Computing__.
+I'm also a hiking, nature, and animal lover, and I like to discover new cultures.\
+I graduated from the [University Institutes of Technology of Paris](https://www.iut.parisdescartes.fr) and the [Efrei Paris](https://www.efrei.fr) engineering school with a major in __Cloud Computing__.
 
 ### How to reach me ✉️ ###
 
