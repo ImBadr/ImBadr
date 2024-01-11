@@ -1,12 +1,12 @@
 # ![Header](./assets/github-header-image.png) #
 
-## Hi there 👋 ! I'm [Badr TADJER](https://www.tadjerbadr.dev) ![viewers](https://komarev.com/ghpvc/?username=ImBadr&base=543&color=orange) ##
+## Hi there 👋 ! I'm [Badr TADJER](https://www.tadjerbadr.com) ![viewers](https://komarev.com/ghpvc/?username=ImBadr&base=543&color=orange) ##
 
 ![Trophies](https://github-trophies.vercel.app/?username=ImBadr&theme=juicyfresh&title=MultiLanguage,LongTimeUser,Repositories,Commits,Followers,Stars)
 
 ### About me 🙋‍♂️ ###
 
-_I’m currently working on __"On Earth Today"__ (link coming soon): a personal project..._
+_I’m currently working on __"[On Earth Today](https://tadjerbadr.com/onearthtoday)"__ (link coming soon): a personal project..._
 
 I'm a __Developer__ and __DevOps__ with a strong interest in __Cloud Engineering__ and __CyberDefense__.\
 I'm also a hiking, nature, and animal lover, and I like to discover new cultures.\
