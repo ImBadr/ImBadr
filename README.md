@@ -48,6 +48,7 @@ I graduated from the [University Institutes of Technology of Paris](https://www.
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://img.shields.io/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://img.shields.io/)
 [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://img.shields.io/)
+[![Vault](https://img.shields.io/badge/vault-%231A1918.svg?style=for-the-badge&logo=vault&logoColor=white)](https://img.shields.io/)
 
 ### GitHub Stats 📈 ###
 
